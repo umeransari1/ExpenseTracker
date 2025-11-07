@@ -1,0 +1,17 @@
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Infrastructure\bin\Debug\net8.0\ExpenseTracker.Infrastructure.deps.json
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Infrastructure\bin\Debug\net8.0\ExpenseTracker.Infrastructure.runtimeconfig.json
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Infrastructure\bin\Debug\net8.0\ExpenseTracker.Infrastructure.dll
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Infrastructure\bin\Debug\net8.0\ExpenseTracker.Infrastructure.pdb
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Infrastructure\bin\Debug\net8.0\ExpenseTracker.Domain.dll
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Infrastructure\bin\Debug\net8.0\ExpenseTracker.Domain.pdb
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Infrastructure\obj\Debug\net8.0\ExpenseTracker.Infrastructure.csproj.AssemblyReference.cache
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Infrastructure\obj\Debug\net8.0\ExpenseTracker.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Infrastructure\obj\Debug\net8.0\ExpenseTracker.Infrastructure.AssemblyInfoInputs.cache
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Infrastructure\obj\Debug\net8.0\ExpenseTracker.Infrastructure.AssemblyInfo.cs
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Infrastructure\obj\Debug\net8.0\ExpenseTracker.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Infrastructure\obj\Debug\net8.0\ExpenseT.546500FC.Up2Date
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Infrastructure\obj\Debug\net8.0\ExpenseTracker.Infrastructure.dll
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Infrastructure\obj\Debug\net8.0\refint\ExpenseTracker.Infrastructure.dll
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Infrastructure\obj\Debug\net8.0\ExpenseTracker.Infrastructure.pdb
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Infrastructure\obj\Debug\net8.0\ExpenseTracker.Infrastructure.genruntimeconfig.cache
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Infrastructure\obj\Debug\net8.0\ref\ExpenseTracker.Infrastructure.dll

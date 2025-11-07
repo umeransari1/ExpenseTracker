@@ -1,0 +1,17 @@
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Application\bin\Debug\net8.0\ExpenseTracker.Application.deps.json
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Application\bin\Debug\net8.0\ExpenseTracker.Application.dll
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Application\bin\Debug\net8.0\ExpenseTracker.Application.pdb
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Application\bin\Debug\net8.0\ExpenseTracker.Domain.dll
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Application\bin\Debug\net8.0\ExpenseTracker.Infrastructure.dll
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Application\bin\Debug\net8.0\ExpenseTracker.Infrastructure.pdb
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Application\bin\Debug\net8.0\ExpenseTracker.Domain.pdb
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Application\obj\Debug\net8.0\ExpenseTracker.Application.csproj.AssemblyReference.cache
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Application\obj\Debug\net8.0\ExpenseTracker.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Application\obj\Debug\net8.0\ExpenseTracker.Application.AssemblyInfoInputs.cache
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Application\obj\Debug\net8.0\ExpenseTracker.Application.AssemblyInfo.cs
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Application\obj\Debug\net8.0\ExpenseTracker.Application.csproj.CoreCompileInputs.cache
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Application\obj\Debug\net8.0\ExpenseT.086D7044.Up2Date
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Application\obj\Debug\net8.0\ExpenseTracker.Application.dll
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Application\obj\Debug\net8.0\refint\ExpenseTracker.Application.dll
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Application\obj\Debug\net8.0\ExpenseTracker.Application.pdb
+D:\Personal Projects\ExpenseTracker\ExpenseTracker.Application\obj\Debug\net8.0\ref\ExpenseTracker.Application.dll
