@@ -1077,7 +1077,7 @@
         },
         "runtime": {
           "ExpenseTracker.Application.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -1085,7 +1085,7 @@
       "ExpenseTracker.Domain/1.0.0": {
         "runtime": {
           "ExpenseTracker.Domain.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -1101,7 +1101,7 @@
         },
         "runtime": {
           "ExpenseTracker.Infrastructure.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }

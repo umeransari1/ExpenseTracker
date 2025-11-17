@@ -9,3 +9,15 @@ D:\Personal Projects\ExpenseTracker\ExpenseTracker.Domain\obj\Debug\net8.0\Expen
 D:\Personal Projects\ExpenseTracker\ExpenseTracker.Domain\obj\Debug\net8.0\refint\ExpenseTracker.Domain.dll
 D:\Personal Projects\ExpenseTracker\ExpenseTracker.Domain\obj\Debug\net8.0\ExpenseTracker.Domain.pdb
 D:\Personal Projects\ExpenseTracker\ExpenseTracker.Domain\obj\Debug\net8.0\ref\ExpenseTracker.Domain.dll
+D:\Portfolio Projects\ExpenseTracker\Backend\ExpenseTracker.Domain\bin\Debug\net8.0\ExpenseTracker.Domain.deps.json
+D:\Portfolio Projects\ExpenseTracker\Backend\ExpenseTracker.Domain\bin\Debug\net8.0\ExpenseTracker.Domain.dll
+D:\Portfolio Projects\ExpenseTracker\Backend\ExpenseTracker.Domain\bin\Debug\net8.0\ExpenseTracker.Domain.pdb
+D:\Portfolio Projects\ExpenseTracker\Backend\ExpenseTracker.Domain\obj\Debug\net8.0\ExpenseTracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Portfolio Projects\ExpenseTracker\Backend\ExpenseTracker.Domain\obj\Debug\net8.0\ExpenseTracker.Domain.AssemblyInfoInputs.cache
+D:\Portfolio Projects\ExpenseTracker\Backend\ExpenseTracker.Domain\obj\Debug\net8.0\ExpenseTracker.Domain.AssemblyInfo.cs
+D:\Portfolio Projects\ExpenseTracker\Backend\ExpenseTracker.Domain\obj\Debug\net8.0\ExpenseTracker.Domain.csproj.CoreCompileInputs.cache
+D:\Portfolio Projects\ExpenseTracker\Backend\ExpenseTracker.Domain\obj\Debug\net8.0\ExpenseTracker.Domain.sourcelink.json
+D:\Portfolio Projects\ExpenseTracker\Backend\ExpenseTracker.Domain\obj\Debug\net8.0\ExpenseTracker.Domain.dll
+D:\Portfolio Projects\ExpenseTracker\Backend\ExpenseTracker.Domain\obj\Debug\net8.0\refint\ExpenseTracker.Domain.dll
+D:\Portfolio Projects\ExpenseTracker\Backend\ExpenseTracker.Domain\obj\Debug\net8.0\ExpenseTracker.Domain.pdb
+D:\Portfolio Projects\ExpenseTracker\Backend\ExpenseTracker.Domain\obj\Debug\net8.0\ref\ExpenseTracker.Domain.dll

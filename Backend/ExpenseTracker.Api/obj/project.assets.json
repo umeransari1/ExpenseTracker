@@ -4616,23 +4616,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Muhammad Umer\\.nuget\\packages\\": {},
+    "C:\\Users\\786\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Personal Projects\\ExpenseTracker\\Backend\\ExpenseTracker.Api\\ExpenseTracker.Api.csproj",
+      "projectUniqueName": "D:\\Portfolio Projects\\ExpenseTracker\\Backend\\ExpenseTracker.Api\\ExpenseTracker.Api.csproj",
       "projectName": "ExpenseTracker.Api",
-      "projectPath": "D:\\Personal Projects\\ExpenseTracker\\Backend\\ExpenseTracker.Api\\ExpenseTracker.Api.csproj",
-      "packagesPath": "C:\\Users\\Muhammad Umer\\.nuget\\packages\\",
-      "outputPath": "D:\\Personal Projects\\ExpenseTracker\\Backend\\ExpenseTracker.Api\\obj\\",
+      "projectPath": "D:\\Portfolio Projects\\ExpenseTracker\\Backend\\ExpenseTracker.Api\\ExpenseTracker.Api.csproj",
+      "packagesPath": "C:\\Users\\786\\.nuget\\packages\\",
+      "outputPath": "D:\\Portfolio Projects\\ExpenseTracker\\Backend\\ExpenseTracker.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Muhammad Umer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\786\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4642,15 +4642,14 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "D:\\Quest Projects\\iqcrm\\IQCRM.WebApp\\wwwroot\\kendo\\nuget packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Personal Projects\\ExpenseTracker\\Backend\\ExpenseTracker.Application\\ExpenseTracker.Application.csproj": {
-              "projectPath": "D:\\Personal Projects\\ExpenseTracker\\Backend\\ExpenseTracker.Application\\ExpenseTracker.Application.csproj"
+            "D:\\Portfolio Projects\\ExpenseTracker\\Backend\\ExpenseTracker.Application\\ExpenseTracker.Application.csproj": {
+              "projectPath": "D:\\Portfolio Projects\\ExpenseTracker\\Backend\\ExpenseTracker.Application\\ExpenseTracker.Application.csproj"
             }
           }
         }
@@ -4664,7 +4663,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -4708,7 +4708,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

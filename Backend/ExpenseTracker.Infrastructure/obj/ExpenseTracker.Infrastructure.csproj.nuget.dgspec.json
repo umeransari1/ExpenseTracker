@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Personal Projects\\ExpenseTracker\\Backend\\ExpenseTracker.Infrastructure\\ExpenseTracker.Infrastructure.csproj": {}
+    "D:\\Portfolio Projects\\ExpenseTracker\\Backend\\ExpenseTracker.Infrastructure\\ExpenseTracker.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Personal Projects\\ExpenseTracker\\Backend\\ExpenseTracker.Domain\\ExpenseTracker.Domain.csproj": {
+    "D:\\Portfolio Projects\\ExpenseTracker\\Backend\\ExpenseTracker.Domain\\ExpenseTracker.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Personal Projects\\ExpenseTracker\\Backend\\ExpenseTracker.Domain\\ExpenseTracker.Domain.csproj",
+        "projectUniqueName": "D:\\Portfolio Projects\\ExpenseTracker\\Backend\\ExpenseTracker.Domain\\ExpenseTracker.Domain.csproj",
         "projectName": "ExpenseTracker.Domain",
-        "projectPath": "D:\\Personal Projects\\ExpenseTracker\\Backend\\ExpenseTracker.Domain\\ExpenseTracker.Domain.csproj",
-        "packagesPath": "C:\\Users\\Muhammad Umer\\.nuget\\packages\\",
-        "outputPath": "D:\\Personal Projects\\ExpenseTracker\\Backend\\ExpenseTracker.Domain\\obj\\",
+        "projectPath": "D:\\Portfolio Projects\\ExpenseTracker\\Backend\\ExpenseTracker.Domain\\ExpenseTracker.Domain.csproj",
+        "packagesPath": "C:\\Users\\786\\.nuget\\packages\\",
+        "outputPath": "D:\\Portfolio Projects\\ExpenseTracker\\Backend\\ExpenseTracker.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Muhammad Umer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\786\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,7 +27,6 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "D:\\Quest Projects\\iqcrm\\IQCRM.WebApp\\wwwroot\\kendo\\nuget packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -66,24 +66,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Personal Projects\\ExpenseTracker\\Backend\\ExpenseTracker.Infrastructure\\ExpenseTracker.Infrastructure.csproj": {
+    "D:\\Portfolio Projects\\ExpenseTracker\\Backend\\ExpenseTracker.Infrastructure\\ExpenseTracker.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Personal Projects\\ExpenseTracker\\Backend\\ExpenseTracker.Infrastructure\\ExpenseTracker.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Portfolio Projects\\ExpenseTracker\\Backend\\ExpenseTracker.Infrastructure\\ExpenseTracker.Infrastructure.csproj",
         "projectName": "ExpenseTracker.Infrastructure",
-        "projectPath": "D:\\Personal Projects\\ExpenseTracker\\Backend\\ExpenseTracker.Infrastructure\\ExpenseTracker.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Muhammad Umer\\.nuget\\packages\\",
-        "outputPath": "D:\\Personal Projects\\ExpenseTracker\\Backend\\ExpenseTracker.Infrastructure\\obj\\",
+        "projectPath": "D:\\Portfolio Projects\\ExpenseTracker\\Backend\\ExpenseTracker.Infrastructure\\ExpenseTracker.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\786\\.nuget\\packages\\",
+        "outputPath": "D:\\Portfolio Projects\\ExpenseTracker\\Backend\\ExpenseTracker.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Muhammad Umer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\786\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -93,15 +93,14 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "D:\\Quest Projects\\iqcrm\\IQCRM.WebApp\\wwwroot\\kendo\\nuget packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Personal Projects\\ExpenseTracker\\Backend\\ExpenseTracker.Domain\\ExpenseTracker.Domain.csproj": {
-                "projectPath": "D:\\Personal Projects\\ExpenseTracker\\Backend\\ExpenseTracker.Domain\\ExpenseTracker.Domain.csproj"
+              "D:\\Portfolio Projects\\ExpenseTracker\\Backend\\ExpenseTracker.Domain\\ExpenseTracker.Domain.csproj": {
+                "projectPath": "D:\\Portfolio Projects\\ExpenseTracker\\Backend\\ExpenseTracker.Domain\\ExpenseTracker.Domain.csproj"
               }
             }
           }
@@ -115,7 +114,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -164,7 +164,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -12,9 +12,11 @@ namespace ExpenseTracker.Domain.Entities
         public string RowId { get; set; } = Guid.NewGuid().ToString();
         public string Title { get; set; } = string.Empty;
         public decimal Amount { get; set; }
-        public string Category { get; set; } = string.Empty;
         public DateTime Date { get; set; } = DateTime.UtcNow;
         public string UserId { get; set; } = string.Empty;
         public User? User { get; set; }
+
+        public int CategoryId { get; set; }     // FK
+        public Category? Category { get; set; } // Navigation
     }
 }

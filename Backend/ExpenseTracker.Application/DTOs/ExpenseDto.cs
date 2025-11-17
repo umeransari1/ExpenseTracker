@@ -11,7 +11,10 @@ namespace ExpenseTracker.Application.DTOs
         public int Id { get; set; }
         public string Title { get; set; } = string.Empty;
         public decimal Amount { get; set; }
-        public string Category { get; set; } = string.Empty;
+
+        public int CategoryId { get; set; }   // FK reference
+        public string CategoryName { get; set; } = string.Empty;
+
         public DateTime Date { get; set; }
     }
 }
